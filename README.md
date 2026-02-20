@@ -1,6 +1,6 @@
 # Tailscale Batch Netcheck
 
-A stable batch network diagnostic tool for multi-node Tailnet environments.
+A lightweight and reliable batch network diagnostic tool for multi-node Tailnet environments.
 
 This script runs `tailscale netcheck` across all online Linux nodes in your Tailnet via SSH and provides a clean summary of direct connectivity status, IPv6 capability, and DERP usage.
 
