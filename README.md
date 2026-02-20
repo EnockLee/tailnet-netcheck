@@ -42,8 +42,8 @@ apt install jq
 ## Usage
 
 ```bash
-chmod +x batch-netcheck.sh
-./batch-netcheck.sh
+chmod +x tailnet-netcheck.sh
+./tailnet-netcheck.sh
 ```
 
 ## Example output:
