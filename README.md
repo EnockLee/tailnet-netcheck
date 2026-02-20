@@ -93,12 +93,12 @@ NearestDERP
 
 ## Health State Meaning
 
-| State     | Meaning                       |
-| --------- | ----------------------------- |
-| EXCELLENT | IPv4 + IPv6 direct connection |
-| OK        | IPv4 direct connection        |
-| DERP      | Using Tailscale relay         |
-| FAIL      | SSH or execution error        |
+| State     | Meaning                                       |
+| --------- | --------------------------------------------- |
+| EXCELLENT | EXCELLENT – Direct IPv4 and IPv6 connectivity |
+| OK        | IPv4 direct connection                        |
+| DERP      | Using Tailscale relay                         |
+| FAIL      | SSH or execution error                        |
 
 ---
 
