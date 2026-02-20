@@ -26,10 +26,10 @@ Designed for multi-region exit node monitoring.
 
 ## Requirements
 
-- Linux
-- `tailscale`
-- `jq`
-- SSH access to remote nodes (root or appropriate user)
+- Linux control node
+- Tailscale installed on all target nodes
+- `jq` for JSON parsing
+- SSH key-based access to remote nodes (password login not recommended)
 
 Install dependencies:
 
